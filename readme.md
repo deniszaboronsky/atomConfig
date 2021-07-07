@@ -4,6 +4,7 @@ Pip install required first:
 ```
 pip install flake8
 pip install autopep8
+pip install jedi
 ```
 
 Then install atom and clone the repo and then run the following with the correct address for the `package.list`
