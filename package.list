@@ -4,3 +4,4 @@ autocomplete-python
 python-autopep8
 script
 language-terraform
+platformio-ide-terminal
